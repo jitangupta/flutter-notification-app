@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427357575390",
+    "project_id": "pushnotification-340b9",
+    "storage_bucket": "pushnotification-340b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427357575390:android:8c6c079c87b7e9c60bca4f",
+        "android_client_info": {
+          "package_name": "com.jitangupta.notification_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427357575390-sp3mc0e055me6va24kvr278te9rfov0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFBJ6yBe1kc4Zv-kBGbMpRQIvmDCdWs8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427357575390-sp3mc0e055me6va24kvr278te9rfov0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

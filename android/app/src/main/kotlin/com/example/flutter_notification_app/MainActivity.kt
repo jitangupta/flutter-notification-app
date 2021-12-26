@@ -1,4 +1,4 @@
-package com.example.flutter_notification_app
+package com.jitangupta.notification_learning
 
 import io.flutter.embedding.android.FlutterActivity
 
